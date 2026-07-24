@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/ciro-guilherme-nass-0213a625b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:ciroguilhermenass@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ciroguilhermenass@gmail.com&su=Contato%20via%20GitHub">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://cirogn.github.io/Portfolio/src">
@@ -91,8 +91,8 @@ class CiroGuilhermeNass:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CiroGN&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiroGN&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CiroGN&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CiroGN&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Linguagens mais usadas" />
 
 <br/>
 
@@ -104,7 +104,7 @@ class CiroGuilhermeNass:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CiroGN&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Troféus" />
+<img src="https://github-trophies.vercel.app/?username=CiroGN&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Troféus" />
 
 <br/><br/>
 
@@ -223,12 +223,16 @@ Aberto a **estágios**, **projetos colaborativos** e conversas sobre **IA, dados
 <a href="https://www.linkedin.com/in/ciro-guilherme-nass-0213a625b">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:ciroguilhermenass@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ciroguilhermenass@gmail.com&su=Contato%20via%20GitHub">
   <img src="https://img.shields.io/badge/Email-Enviar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/CiroGN">
   <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+<br/>
+
+<sub>📧 `ciroguilhermenass@gmail.com` &nbsp;·&nbsp; 💡 dica: use <kbd>Ctrl</kbd>+clique para abrir os links em nova aba</sub>
 
 <br/><br/>
 
