@@ -218,7 +218,7 @@ Pipeline completo de fine-tuning do `Qwen3.5-0.8B` no dataset **MedPT** (384 mil
 
 ## 🤝 Vamos conversar
 
-Aberto a **estágios**, **projetos colaborativos** e conversas sobre **IA, dados e desenvolvimento**.
+Aberto a **trainees**, **projetos colaborativos** e conversas sobre **IA, dados e desenvolvimento**.
 
 <a href="https://www.linkedin.com/in/ciro-guilherme-nass-0213a625b">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
