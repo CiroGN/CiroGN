@@ -91,8 +91,8 @@ class CiroGuilhermeNass:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CiroGN&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CiroGN&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats-one-plum.vercel.app/api?username=CiroGN&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats-one-plum.vercel.app/api/top-langs/?username=CiroGN&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Linguagens mais usadas" />
 
 <br/>
 
