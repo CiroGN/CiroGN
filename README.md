@@ -133,7 +133,7 @@ class CiroGuilhermeNass:
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=CiroGN&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de contribuições" />
+<img height="165" src="https://streak-stats.vercel.app/?user=CiroGN&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de contribuições" />
 
 <br/><br/>
 
