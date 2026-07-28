@@ -37,6 +37,8 @@ class CiroGuilhermeNass:
         self.formacao   = "Bacharelado em Ciência da Computação — IFPR"
         self.campus     = "Campus Pinhais — Paraná, Brasil"
         self.periodo    = "4º ano (ingresso em 2023)"
+        self.trabalho   = "Estagiário de P&D na Fiscaltech"
+        self.idiomas    = {"Português": "nativo", "Inglês": "fluente"}
         self.atuacao    = ["Machine Learning", "LLMs", "Web Full Stack",
                            "Mobile", "IoT", "Visão Computacional"]
         self.monitorias = ["Introdução à Programação", "POO",
@@ -47,11 +49,46 @@ class CiroGuilhermeNass:
         return "Treinar modelos de linguagem em GPU consumer sem perder qualidade"
 ```
 
+- 💼 **Estagiário de P&D na Fiscaltech**, no time de sustentação
 - 🎓 Cursando **Bacharelado em Ciência da Computação no IFPR — Campus Pinhais**, atualmente no **4º ano**
 - 🧠 **TCC em andamento:** fine-tuning **QLoRA** do `Qwen3.5-0.8B` sobre o dataset **MedPT** para triagem médica em português
 - 👨‍🏫 **Monitor** de *Introdução à Programação*, *POO*, *Banco de Dados II* e *Cálculo*
 - 🌐 Projetos que vão de **e-commerce em PHP** a **apps mobile em React Native** e **redes IoT com ESP32**
 - 📚 Sempre estudando: otimização combinatória, computação gráfica e sistemas distribuídos
+
+---
+
+## 💼 Experiência profissional
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Fiscaltech
+**Estagiário de P&D** · Time de sustentação
+
+![Atual](https://img.shields.io/badge/11%2F2025_—_atual-16A34A?style=flat-square)
+
+- 📊 Criação e manutenção de **dashboards**
+- 📡 Supervisão de infraestrutura com **Zabbix**
+- 🖥️ **Manutenção de servidores**
+- 🔧 **Hotfixes** em sistemas em produção
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Wise Systems
+**Desenvolvedor Júnior** · Full-stack
+
+![Periodo](https://img.shields.io/badge/06%2F2024_—_10%2F2024-64748B?style=flat-square)
+
+- 🧩 Desenvolvimento **full-stack**
+- ✅ **Testes recursivos**
+- 📚 Formação técnica documentada em **[TraineeWise](https://github.com/CiroGN/TraineeWise)**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -173,13 +210,16 @@ Pipeline completo de fine-tuning do `Qwen3.5-0.8B` no dataset **MedPT** (384 mil
 
 ---
 
-## 🎓 Formação & áreas estudadas
+## 🎓 Formação, idiomas & áreas estudadas
 
 <div align="center">
 
 ![IFPR](https://img.shields.io/badge/IFPR_Pinhais-Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-16A34A?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Periodo](https://img.shields.io/badge/2023_at%C3%A9_hoje-4%C2%BA_ano-38BDF8?style=for-the-badge)
 ![Monitoria](https://img.shields.io/badge/Monitor-4_disciplinas-16A34A?style=for-the-badge)
+
+![Portugues](https://img.shields.io/badge/🇧🇷_Portugu%C3%AAs-Nativo-009C3B?style=for-the-badge)
+![Ingles](https://img.shields.io/badge/🇺🇸_Ingl%C3%AAs-Fluente-3C3B6E?style=for-the-badge)
 
 `Inteligência Artificial` · `Big Data` · `Visão Computacional` · `Processamento Digital de Imagens`
 
