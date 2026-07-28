@@ -181,20 +181,30 @@ Pipeline completo de fine-tuning do `Qwen3.5-0.8B` no dataset **MedPT** (384 mil
 
 <div align="center">
 
-| Setup | Accuracy | F1 Macro |
-|:---|:---:|:---:|
-| Zero-shot | 22,4% | 0,190 |
-| Three-shot | 15,0% | 0,186 |
-| Five-shot | 14,8% | 0,175 |
-| 🏆 **Fine-tuned (QLoRA)** | **66,8%** | **0,630** |
+**Avaliação quantitativa** &nbsp;·&nbsp; <sub>200 exemplos de teste estratificados</sub>
 
-![Ganho](https://img.shields.io/badge/Ganho_sobre_zero--shot-%2B44,4_p.p.-16A34A?style=for-the-badge)
+| Métrica | Resultado |
+|:---|:---:|
+| 🎯 Acurácia | **85,0%** |
+| 📊 F1-macro | **0,791** |
+| 🔍 Precisão macro | 0,801 |
+| 🔁 Recall macro | 0,792 |
+
+![Ganho](https://img.shields.io/badge/Ganho_sobre_zero--shot-%2B18_p.p.-16A34A?style=for-the-badge)
 ![Params](https://img.shields.io/badge/Treináveis-6,4M_de_758M_(0,84%25)-6366F1?style=for-the-badge)
-![Treino](https://img.shields.io/badge/Tempo_de_treino-17_min-EA580C?style=for-the-badge)
+![Treino](https://img.shields.io/badge/Treino-145k_exemplos_em_~7h-EA580C?style=for-the-badge)
+
+**Avaliação qualitativa** &nbsp;·&nbsp; <sub>LLM-as-judge estilo HealthBench, rubrica de 5 critérios clínicos</sub>
+
+| Recorte | Score |
+|:---|:---:|
+| 🩺 Geral | **0,951** |
+| 📋 Casos rotineiros <sub>(n=72)</sub> | 0,966 |
+| 🧠 Saúde mental <sub>(n=27)</sub> | 0,911 |
 
 </div>
 
-> `QLoRA (NF4 4-bit)` · `LoRA r=16, α=32` · `PyTorch` · `Transformers` · `PEFT` · `TRL` · `bitsandbytes`
+> `QLoRA (NF4 4-bit)` · `LoRA r=16, α=32` · `PyTorch` · `Unsloth` · `TRL` · `PEFT` · `bitsandbytes` · `Ollama (llama3.1:8b como juiz)`
 
 <br/>
 
