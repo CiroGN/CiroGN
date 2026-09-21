@@ -133,17 +133,6 @@ class CiroGuilhermeNass:
 
 <br/>
 
-<img height="165" src="https://streak-stats.vercel.app/?user=CiroGN&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de contribuições" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CiroGN&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true&area=true" width="95%" alt="Gráfico de atividade" />
-
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=CiroGN&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Troféus" />
-
-<br/><br/>
 
 **🐍 A cobrinha comendo meus commits**
 
